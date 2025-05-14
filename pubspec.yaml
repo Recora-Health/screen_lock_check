@@ -1,11 +1,11 @@
 name: screen_lock_check
 description: A plugin that checks whether the user has enabled a passcode, pattern lock, face id or touch id on their device.
-version: 2.0.1
+version: 2.99.1
 homepage: https://github.com/koa-health/screen_lock_check
 
 environment:
-  sdk: '>=2.12.0 <3.0.0'
-  flutter: ">=2.8.1"
+  sdk: ">=3.4.0 <4.0.0"
+  flutter: ">=3.29.3 <4.0.0"
 
 dependencies:
   flutter:
